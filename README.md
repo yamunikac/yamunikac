@@ -8,12 +8,11 @@
 
 ## 🚀 About Me
 
-- Exploring programming and web development through hands-on learning  
-- Working with Java, Python, and frontend technologies  
-- Strong foundation in core CS subjects: DSA, DBMS, OS, CN, OOPs, SE  
-- Currently learning React to strengthen frontend development skills  
-- From Nellore, Andhra Pradesh, India  
-- Goal: Becoming a confident and capable software engineer  
+- I enjoy exploring programming and web development through hands-on learning.  
+- I work with **Java, Python, and frontend technologies**, building my skills step by step.  
+- I have a strong foundation in **core computer science subjects** such as **DSA, DBMS, OS, CN, OOPs, and SE**.  
+- I’m currently learning **React** to strengthen my frontend development skills.
+- My goal is to become a **confident and capable software engineer**.
 
 ---
 
