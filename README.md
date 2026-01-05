@@ -51,17 +51,14 @@
 
 ## 💼 Projects
 
-- 🌐 **Personal Portfolio Website**  
-  🔗 https://myportfolio2k25.netlify.app/
-
 - 📝 **To-Do List Application**  
-  🔗 https://yamunikac.github.io/OIBSIP_HTML_Projects/todo-list.html
+  🔗 https://github.com/yamunikac/OIBSIP_HTML_Projects/blob/main/To-Do%20List.html
 
 - 🔐 **Register & Login Application**  
-  🔗 https://yamunikac.github.io/OIBSIP_HTML_Projects/register-login.html
+  🔗 https://github.com/yamunikac/OIBSIP_HTML_Projects/blob/main/Register-Login.html
 
 - 🌿 **Traditional Healthcare Website**  
-  🔗 https://yamunikac.github.io/tradcare/
+  🔗 https://github.com/yamunikac/tradcare
 
 ---
 
@@ -73,11 +70,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamunikac&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamunikac&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yamunikac)
+![Profile Views](https://komarev.com/ghpvc/?username=yamunikac&color=blue)
+![Followers](https://img.shields.io/github/followers/yamunikac?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/yamunikac?label=Stars&style=social)
 
 ---
 
