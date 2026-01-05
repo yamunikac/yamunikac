@@ -1,7 +1,5 @@
 👋 Hi, I'm Yamunika Chintapanti
 
----
-
 🎓 B.Tech Student in Computer Science and Engineering  
 🏫 Geethanjali Institute of Science and Technology, Nellore  
 🌐 Aspiring Software Developer  
@@ -57,13 +55,13 @@
   🔗 https://myportfolio2k25.netlify.app/
 
 - 📝 **To-Do List Application**  
-  🔗 https://yamunika302.github.io/OIBSIP_HTML_Projects/To-Do%20List.html
+  🔗 https://yamunikac.github.io/OIBSIP_HTML_Projects/todo-list.html
 
 - 🔐 **Register & Login Application**  
-  🔗 https://yamunika302.github.io/OIBSIP_HTML_Projects/Register-Login.html
+  🔗 https://yamunikac.github.io/OIBSIP_HTML_Projects/register-login.html
 
 - 🌿 **Traditional Healthcare Website**  
-  🔗 https://yamunika302.github.io/tradcare/
+  🔗 https://yamunikac.github.io/tradcare/
 
 ---
 
