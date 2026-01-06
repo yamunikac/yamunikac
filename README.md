@@ -61,14 +61,6 @@
 
 ---
 
-## 📜 Certifications
-
-- Tech Saksham Workshop – Microsoft, Edunet & SAP  
-- AWS Cloud Computing Workshop – APSDC  
-- Volunteer Certificate – Technical Events Organization (GIST)  
-
----
-
 ## 📊 GitHub Profile Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yamunikac&color=blue)
