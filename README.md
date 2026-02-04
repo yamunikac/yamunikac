@@ -18,17 +18,17 @@
 
 ## 🧠 Languages
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00)
-![Python](https://img.shields.io/badge/Python-%233776AB)
-![C](https://img.shields.io/badge/C-%2300599C)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C?logo=c&logoColor=white)
 
 ---
 
 ## 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)
 
 ---
 
@@ -41,10 +41,9 @@
 
 ## 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-%23F05032)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23000000)
+![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
