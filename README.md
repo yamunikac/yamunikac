@@ -9,10 +9,9 @@
 ## 🚀 About Me
 
 - I enjoy exploring programming and web development through hands-on learning.  
-- I work with **Java, Python, and frontend technologies**, building my skills step by step.  
-- I have a strong foundation in **core computer science subjects** such as **DSA, DBMS, OS, CN, OOPs, and SE**.  
+- I work with **C, Java, Python, and frontend technologies**, building my skills step by step.  
+- I have a strong foundation in **core computer science subjects** such as **DSA, OOPs**.  
 - I’m currently learning **React** to strengthen my frontend development skills.
-- My goal is to become a **confident and capable software engineer**.
 
 ---
 
@@ -72,6 +71,7 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/yamunika/
 - 📧 Email: chinthapantiyamunika1229@gmail.com
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1NB-IeJrwNV-AFbfn0PVdiYljHD0guBjw/view?usp=sharing)
 
 ---
 
