@@ -48,7 +48,7 @@
 
 ## 💼 Projects
 
-- 📝 **To-Do List Application**  
+- 📝 **Task Manager**  
   🔗 https://github.com/yamunikac/OIBSIP_HTML_Projects/blob/main/To-Do%20List.html
 
 - 🔐 **Register & Login Application**  
