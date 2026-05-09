@@ -51,7 +51,7 @@
 - 📝 **VisionPro_Image Processor**  
   🔗 https://github.com/yamunikac/imagepro
 
-- 🔐 **EduPlus_daptive Assesment Platform**  
+- 🔐 **EduPlus_Adaptive Assesment Platform**  
   🔗 https://github.com/yamunikac/Synaptix2026_InnovX
 
 - 🌿 **Traditional Healthcare Website**  
