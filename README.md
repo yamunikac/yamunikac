@@ -10,7 +10,7 @@
 
 - I enjoy exploring programming and web development through hands-on learning.  
 - I work with **C, Java, Python, and frontend technologies**, building my skills step by step.  
-- I have a strong foundation in **core computer science subjects** such as **DSA, OOPs**.  
+- I have a strong foundation in **core computer science subjects** such as **DSA, OOPs, SQL**.  
 - I’m currently learning **React** to strengthen my frontend development skills.
 
 ---
@@ -48,11 +48,11 @@
 
 ## 💼 Projects
 
-- 📝 **Task Manager**  
-  🔗 https://github.com/yamunikac/OIBSIP_HTML_Projects/blob/main/To-Do%20List.html
+- 📝 **VisionPro_Image Processor**  
+  🔗 https://github.com/yamunikac/imagepro
 
-- 🔐 **Register & Login Application**  
-  🔗 https://github.com/yamunikac/OIBSIP_HTML_Projects/blob/main/Register-Login.html
+- 🔐 **EduPlus_daptive Assesment Platform**  
+  🔗 https://github.com/yamunikac/Synaptix2026_InnovX
 
 - 🌿 **Traditional Healthcare Website**  
   🔗 https://github.com/yamunikac/tradcare
@@ -71,7 +71,7 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/yamunika/
 - 📧 Email: chinthapantiyamunika1229@gmail.com
-- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1INuIGh8iG3TpMpGQ7fEB38oOXsSHS9V7/view?usp=sharing)
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1jow-JRtkxxWENjLZ6UUzv5-82knt72eq/view?usp=sharing)
 
 ---
 
