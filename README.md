@@ -14,151 +14,284 @@
 - I’m currently learning **React** to strengthen my frontend development skills.
 
 ---
+<!-- ================= PROGRAMMING LANGUAGES ================= -->
 
-  <img src="https://skillicons.dev/icons?i=linux" width="45" title="Operating Systems"/>
-  <img src="https://skillicons.dev/icons?i=cisco" width="45" title="Computer Networks"/>
-</p>
+<table width="100%">
+<tr>
+<td bgcolor="#F0EDFF">
 
-DSA&nbsp;&nbsp;&nbsp;&nbsp; OOPs&nbsp;&nbsp;&nbsp;&nbsp; SQL&nbsp;&nbsp;&nbsp;&nbsp; DBMS&nbsp;&nbsp;&nbsp;&nbsp; Operating Systems&nbsp;&nbsp;&nbsp;&nbsp; Computer Networks
+### 💻 Programming Languages
 
----
+</td>
+</tr>
+</table>
 
-## 🧠 Programming Languages
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48"><br>
+C
+</td>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/>
-  C&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48"><br>
+Java
+</td>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/>
-  Java&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48"><br>
+Python
+</td>
+</tr>
+</table>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
-  Python
-</p>
 
----
+<!-- ================= WEB TECHNOLOGIES ================= -->
 
-## 🎨 Web Technologies
+<table width="100%">
+<tr>
+<td bgcolor="#FFF0F5">
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
-  HTML&nbsp;&nbsp;&nbsp;&nbsp;
+### 🎨 Web Technologies
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
-  CSS&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+</table>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
-  JavaScript&nbsp;&nbsp;&nbsp;&nbsp;
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48"><br>
+HTML5
+</td>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
-  React (Learning)
-</p>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48"><br>
+CSS3
+</td>
 
----
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48"><br>
+JavaScript
+</td>
 
-## 🧩 Core Computer Science
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48"><br>
+React<br>
+<sub>Learning</sub>
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://img.icons8.com/color/48/algorithm.png" width="40"/>
-  DSA&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://img.icons8.com/color/48/object.png" width="40"/>
-  OOPs&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- ================= CORE COMPUTER SCIENCE ================= -->
 
-  <img src="https://img.icons8.com/color/48/sql.png" width="40"/>
-  SQL&nbsp;&nbsp;&nbsp;&nbsp;
+<table width="100%">
+<tr>
+<td bgcolor="#EEF9F2">
 
-  <img src="https://img.icons8.com/color/48/database.png" width="40"/>
-  DBMS
-</p>
+### 🧩 Core Computer Science
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>
-  Operating Systems&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+</table>
 
-  <img src="https://img.icons8.com/color/48/networking-manager.png" width="40"/>
-  Computer Networks
-</p>
+<table>
+<tr>
 
----
+<td align="center" width="140">
+<img src="https://placehold.co/60x60/6C63FF/FFFFFF?text=DSA" width="48"><br>
+DSA
+</td>
 
-## ☁️ Google Cloud
+<td align="center" width="140">
+<img src="https://img.icons8.com/color/96/object.png" width="48"><br>
+OOPs
+</td>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40"/>
-  Google Cloud&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="140">
+<img src="https://img.icons8.com/color/96/sql.png" width="48"><br>
+SQL
+</td>
 
-  <img src="https://img.icons8.com/color/48/server.png" width="40"/>
-  Cloud Infrastructure&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="140">
+<img src="https://img.icons8.com/color/96/database.png" width="48"><br>
+DBMS
+</td>
 
-  <img src="https://img.icons8.com/color/48/network.png" width="40"/>
-  Networking
-</p>
+<td align="center" width="170">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48"><br>
+Operating Systems
+</td>
 
-<p>
-  <img src="https://img.icons8.com/color/48/lock.png" width="40"/>
-  IAM&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="170">
+<img src="https://img.icons8.com/color/96/networking-manager.png" width="48"><br>
+Computer Networks
+</td>
 
-  <img src="https://img.icons8.com/color/48/cloud-storage.png" width="40"/>
-  Cloud Storage&nbsp;&nbsp;&nbsp;&nbsp;
+</tr>
+</table>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40"/>
-  Kubernetes
-</p>
 
----
+<!-- ================= GOOGLE CLOUD ================= -->
 
-## ⚡ Salesforce
+<table width="100%">
+<tr>
+<td bgcolor="#EEF7FF">
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="40"/>
-  Salesforce Platform&nbsp;&nbsp;&nbsp;&nbsp;
+### ☁️ Google Cloud
 
-  <img src="https://img.icons8.com/color/48/source-code.png" width="40"/>
-  Apex&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+</table>
 
-  <img src="https://img.icons8.com/color/48/search.png" width="40"/>
-  SOQL
-</p>
+<table>
+<tr>
 
-<p>
-  <img src="https://img.icons8.com/color/48/flow-chart.png" width="40"/>
-  Flows&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="48"><br>
+Google Cloud
+</td>
 
-  <img src="https://img.icons8.com/color/48/data-configuration.png" width="40"/>
-  Data Modeling&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="160">
+<img src="https://img.icons8.com/color/96/server.png" width="48"><br>
+Cloud Infrastructure
+</td>
 
-  <img src="https://img.icons8.com/color/48/security-checked.png" width="40"/>
-  Data Security
-</p>
+<td align="center" width="140">
+<img src="https://img.icons8.com/color/96/network.png" width="48"><br>
+Networking
+</td>
 
----
+<td align="center" width="140">
+<img src="https://img.icons8.com/color/96/lock.png" width="48"><br>
+IAM
+</td>
 
-## 🗄️ Databases
+<td align="center" width="150">
+<img src="https://img.icons8.com/color/96/cloud-storage.png" width="48"><br>
+Cloud Storage
+</td>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
-  MySQL&nbsp;&nbsp;&nbsp;&nbsp;
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="48"><br>
+Kubernetes
+</td>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40"/>
-  MongoDB
-</p>
+</tr>
+</table>
 
----
 
-## 🛠️ Tools & Platforms
+<!-- ================= SALESFORCE ================= -->
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
-  Git&nbsp;&nbsp;&nbsp;&nbsp;
+<table width="100%">
+<tr>
+<td bgcolor="#FFF7EA">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/>
-  GitHub&nbsp;&nbsp;&nbsp;&nbsp;
+### ⚡ Salesforce
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"/>
-  VS Code
-</p>
+</td>
+</tr>
+</table>
 
+<table>
+<tr>
+
+<td align="center" width="160">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="48"><br>
+Salesforce Platform
+</td>
+
+<td align="center" width="140">
+<img src="https://img.icons8.com/color/96/source-code.png" width="48"><br>
+Apex
+</td>
+
+<td align="center" width="140">
+<img src="https://img.icons8.com/color/96/search.png" width="48"><br>
+SOQL
+</td>
+
+<td align="center" width="140">
+<img src="https://img.icons8.com/color/96/flow-chart.png" width="48"><br>
+Flows
+</td>
+
+<td align="center" width="150">
+<img src="https://img.icons8.com/color/96/data-configuration.png" width="48"><br>
+Data Modeling
+</td>
+
+<td align="center" width="150">
+<img src="https://img.icons8.com/color/96/security-checked.png" width="48"><br>
+Data Security
+</td>
+
+</tr>
+</table>
+
+
+<!-- ================= DATABASES ================= -->
+
+<table width="100%">
+<tr>
+<td bgcolor="#F2F0FF">
+
+### 🗄️ Databases
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td align="center" width="160">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48"><br>
+MySQL
+</td>
+
+<td align="center" width="160">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48"><br>
+MongoDB
+</td>
+
+</tr>
+</table>
+
+
+<!-- ================= TOOLS ================= -->
+
+<table width="100%">
+<tr>
+<td bgcolor="#FFF0F6">
+
+### 🛠️ Tools & Platforms
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td align="center" width="160">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48"><br>
+Git
+</td>
+
+<td align="center" width="160">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48"><br>
+GitHub
+</td>
+
+<td align="center" width="160">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48"><br>
+VS Code
+</td>
+
+</tr>
+</table>
 ---
 
 ## 💼 Projects
