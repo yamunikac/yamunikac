@@ -71,7 +71,7 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/yamunika/
 - 📧 Email: chinthapantiyamunika1229@gmail.com
-- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1jow-JRtkxxWENjLZ6UUzv5-82knt72eq/view?usp=sharing)
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1yHZVWU8LWtG9TzLwqjE5b2gxq17IL3Oj/view?usp=sharing)
 
 ---
 
