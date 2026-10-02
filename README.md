@@ -15,34 +15,97 @@
 
 ---
 
-## 🧠 Languages
+## 🧠 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C?logo=c&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" width="45" title="C"/>
+  <img src="https://skillicons.dev/icons?i=java" width="45" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" width="45" title="Python"/>
+</p>
 
----
-
-## 🎨 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)
+C&nbsp;&nbsp;&nbsp;&nbsp; Java&nbsp;&nbsp;&nbsp;&nbsp; Python
 
 ---
 
-## 🗄️ Backend & Databases
+## 🎨 Web Technologies
 
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1)
-![DBMS](https://img.shields.io/badge/DBMS-%23666)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="45" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="45" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react" width="45" title="React"/>
+</p>
+
+HTML5&nbsp;&nbsp;&nbsp;&nbsp; CSS3&nbsp;&nbsp;&nbsp;&nbsp; JavaScript&nbsp;&nbsp;&nbsp;&nbsp; React (Learning)
 
 ---
 
-## 🛠️ Tools
+## 🧩 Core Computer Science
 
-![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=leetcode" width="45" title="DSA"/>
+  <img src="https://skillicons.dev/icons?i=java" width="45" title="OOPs"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" title="SQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" title="DBMS"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="45" title="Operating Systems"/>
+  <img src="https://skillicons.dev/icons?i=cisco" width="45" title="Computer Networks"/>
+</p>
+
+DSA&nbsp;&nbsp;&nbsp;&nbsp; OOPs&nbsp;&nbsp;&nbsp;&nbsp; SQL&nbsp;&nbsp;&nbsp;&nbsp; DBMS&nbsp;&nbsp;&nbsp;&nbsp; Operating Systems&nbsp;&nbsp;&nbsp;&nbsp; Computer Networks
+
+---
+
+## ☁️ Google Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp" width="45" title="Google Cloud"/>
+  <img src="https://skillicons.dev/icons?i=gcp" width="45" title="Cloud Infrastructure"/>
+  <img src="https://skillicons.dev/icons?i=gcp" width="45" title="Networking"/>
+  <img src="https://skillicons.dev/icons?i=gcp" width="45" title="IAM"/>
+  <img src="https://skillicons.dev/icons?i=gcp" width="45" title="Cloud Storage"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="45" title="Kubernetes"/>
+</p>
+
+Google Cloud&nbsp;&nbsp;&nbsp;&nbsp; Cloud Infrastructure&nbsp;&nbsp;&nbsp;&nbsp; Networking&nbsp;&nbsp;&nbsp;&nbsp; IAM&nbsp;&nbsp;&nbsp;&nbsp; Cloud Storage&nbsp;&nbsp;&nbsp;&nbsp; Kubernetes
+
+---
+
+## ⚡ Salesforce
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=salesforce" width="45" title="Salesforce Platform"/>
+  <img src="https://skillicons.dev/icons?i=salesforce" width="45" title="Apex"/>
+  <img src="https://skillicons.dev/icons?i=salesforce" width="45" title="SOQL"/>
+  <img src="https://skillicons.dev/icons?i=salesforce" width="45" title="Flows"/>
+  <img src="https://skillicons.dev/icons?i=salesforce" width="45" title="Data Modeling"/>
+  <img src="https://skillicons.dev/icons?i=salesforce" width="45" title="Data Security"/>
+</p>
+
+Salesforce Platform&nbsp;&nbsp;&nbsp;&nbsp; Apex&nbsp;&nbsp;&nbsp;&nbsp; SOQL&nbsp;&nbsp;&nbsp;&nbsp; Flows&nbsp;&nbsp;&nbsp;&nbsp; Data Modeling&nbsp;&nbsp;&nbsp;&nbsp; Data Security
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB"/>
+</p>
+
+MySQL&nbsp;&nbsp;&nbsp;&nbsp; MongoDB
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="45" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" width="45" title="PyCharm"/>
+</p>
+
+Git&nbsp;&nbsp;&nbsp;&nbsp; GitHub&nbsp;&nbsp;&nbsp;&nbsp; VS Code&nbsp;&nbsp;&nbsp;&nbsp; PyCharm
 
 ---
 
