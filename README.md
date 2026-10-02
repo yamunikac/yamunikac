@@ -44,7 +44,7 @@ I'm a Computer Science and Engineering student currently building my technical s
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
-  &nbsp;Python
+  &nbsp;Python <sub>(Basic)</sub>
 </p>
 
 ---
@@ -87,7 +87,8 @@ I'm a Computer Science and Engineering student currently building my technical s
 
   <img src="https://img.icons8.com/color/96/database.png" width="40"/>
   &nbsp;DBMS
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>
   &nbsp;Operating Systems
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -111,7 +112,8 @@ I'm a Computer Science and Engineering student currently building my technical s
 
   <img src="https://img.icons8.com/color/96/network.png" width="40"/>
   &nbsp;Networking
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <img src="https://img.icons8.com/color/96/lock.png" width="40"/>
   &nbsp;IAM
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -137,6 +139,7 @@ I'm a Computer Science and Engineering student currently building my technical s
 
   <img src="https://img.icons8.com/color/96/search.png" width="40"/>
   &nbsp;SOQL
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <img src="https://img.icons8.com/color/96/flow-chart.png" width="40"/>
   &nbsp;Flows
