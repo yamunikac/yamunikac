@@ -1,17 +1,27 @@
-👋 Hi, I'm Yamunika Chintapanti
+<div align="center">
 
-🎓 B.Tech Student in Computer Science and Engineering  
-🏫 Geethanjali Institute of Science and Technology, Nellore  
-🌐 Aspiring Software Developer  
+# 👋 Hello, I'm Yamunika Chintapanti
+
+### Aspiring Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=0077B5&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Web+Development;Java+%7C+SQL;Aspiring+Software+Engineer" alt="Typing SVG" />
+
+📍 Nellore, Andhra Pradesh | 📧 chinthapantiyamunika1229@gmail.com
+
+<a href="https://github.com/yamunikac">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/yamunika/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- I enjoy exploring programming and web development through hands-on learning.  
-- I work with **C, Java, Python, and frontend technologies**, building my skills step by step.  
-- I have a strong foundation in **core computer science subjects** such as **DSA, OOPs, SQL**.  
-- I’m currently learning **React** to strengthen my frontend development skills.
+I'm a Computer Science and Engineering student currently building my technical skills through projects, internships, and hands-on learning. I have worked with **C, Java, SQL, and frontend technologies**, and I'm currently learning **Salesforce** and exploring new technologies.
 
 ---
 
