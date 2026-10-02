@@ -74,9 +74,7 @@
 
   <img src="https://img.icons8.com/color/96/database.png" width="40"/>
   &nbsp;DBMS
-</p>
 
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>
   &nbsp;Operating Systems
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -100,9 +98,7 @@
 
   <img src="https://img.icons8.com/color/96/network.png" width="40"/>
   &nbsp;Networking
-</p>
 
-<p>
   <img src="https://img.icons8.com/color/96/lock.png" width="40"/>
   &nbsp;IAM
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -130,9 +126,7 @@
 
   <img src="https://img.icons8.com/color/96/search.png" width="40"/>
   &nbsp;SOQL
-</p>
 
-<p>
   <img src="https://img.icons8.com/color/96/flow-chart.png" width="40"/>
   &nbsp;Flows
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
