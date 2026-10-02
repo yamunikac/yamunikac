@@ -107,8 +107,6 @@
   &nbsp;Cloud Storage
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40"/>
-  &nbsp;Kubernetes
 </p>
 
 ---
