@@ -15,38 +15,6 @@
 
 ---
 
-## 🧠 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c" width="45" title="C"/>
-  <img src="https://skillicons.dev/icons?i=java" width="45" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=python" width="45" title="Python"/>
-</p>
-
-C&nbsp;&nbsp;&nbsp;&nbsp; Java&nbsp;&nbsp;&nbsp;&nbsp; Python
-
----
-
-## 🎨 Web Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="45" title="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" width="45" title="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="45" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=react" width="45" title="React"/>
-</p>
-
-HTML5&nbsp;&nbsp;&nbsp;&nbsp; CSS3&nbsp;&nbsp;&nbsp;&nbsp; JavaScript&nbsp;&nbsp;&nbsp;&nbsp; React (Learning)
-
----
-
-## 🧩 Core Computer Science
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="45" title="DSA"/>
-  <img src="https://skillicons.dev/icons?i=java" width="45" title="OOPs"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="45" title="SQL"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="45" title="DBMS"/>
   <img src="https://skillicons.dev/icons?i=linux" width="45" title="Operating Systems"/>
   <img src="https://skillicons.dev/icons?i=cisco" width="45" title="Computer Networks"/>
 </p>
@@ -55,57 +23,141 @@ DSA&nbsp;&nbsp;&nbsp;&nbsp; OOPs&nbsp;&nbsp;&nbsp;&nbsp; SQL&nbsp;&nbsp;&nbsp;&n
 
 ---
 
-## ☁️ Google Cloud
+## 🧠 Programming Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp" width="45" title="Google Cloud"/>
-  <img src="https://skillicons.dev/icons?i=gcp" width="45" title="Cloud Infrastructure"/>
-  <img src="https://skillicons.dev/icons?i=gcp" width="45" title="Networking"/>
-  <img src="https://skillicons.dev/icons?i=gcp" width="45" title="IAM"/>
-  <img src="https://skillicons.dev/icons?i=gcp" width="45" title="Cloud Storage"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="45" title="Kubernetes"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/>
+  C&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/>
+  Java&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
+  Python
 </p>
 
-Google Cloud&nbsp;&nbsp;&nbsp;&nbsp; Cloud Infrastructure&nbsp;&nbsp;&nbsp;&nbsp; Networking&nbsp;&nbsp;&nbsp;&nbsp; IAM&nbsp;&nbsp;&nbsp;&nbsp; Cloud Storage&nbsp;&nbsp;&nbsp;&nbsp; Kubernetes
+---
+
+## 🎨 Web Technologies
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
+  HTML&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
+  CSS&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
+  JavaScript&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
+  React (Learning)
+</p>
+
+---
+
+## 🧩 Core Computer Science
+
+<p>
+  <img src="https://img.icons8.com/color/48/algorithm.png" width="40"/>
+  DSA&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/48/object.png" width="40"/>
+  OOPs&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/48/sql.png" width="40"/>
+  SQL&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/48/database.png" width="40"/>
+  DBMS
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>
+  Operating Systems&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/48/networking-manager.png" width="40"/>
+  Computer Networks
+</p>
+
+---
+
+## ☁️ Google Cloud
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40"/>
+  Google Cloud&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/48/server.png" width="40"/>
+  Cloud Infrastructure&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/48/network.png" width="40"/>
+  Networking
+</p>
+
+<p>
+  <img src="https://img.icons8.com/color/48/lock.png" width="40"/>
+  IAM&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/48/cloud-storage.png" width="40"/>
+  Cloud Storage&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40"/>
+  Kubernetes
+</p>
 
 ---
 
 ## ⚡ Salesforce
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=salesforce" width="45" title="Salesforce Platform"/>
-  <img src="https://skillicons.dev/icons?i=salesforce" width="45" title="Apex"/>
-  <img src="https://skillicons.dev/icons?i=salesforce" width="45" title="SOQL"/>
-  <img src="https://skillicons.dev/icons?i=salesforce" width="45" title="Flows"/>
-  <img src="https://skillicons.dev/icons?i=salesforce" width="45" title="Data Modeling"/>
-  <img src="https://skillicons.dev/icons?i=salesforce" width="45" title="Data Security"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="40"/>
+  Salesforce Platform&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/48/source-code.png" width="40"/>
+  Apex&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/48/search.png" width="40"/>
+  SOQL
 </p>
 
-Salesforce Platform&nbsp;&nbsp;&nbsp;&nbsp; Apex&nbsp;&nbsp;&nbsp;&nbsp; SOQL&nbsp;&nbsp;&nbsp;&nbsp; Flows&nbsp;&nbsp;&nbsp;&nbsp; Data Modeling&nbsp;&nbsp;&nbsp;&nbsp; Data Security
+<p>
+  <img src="https://img.icons8.com/color/48/flow-chart.png" width="40"/>
+  Flows&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/48/data-configuration.png" width="40"/>
+  Data Modeling&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://img.icons8.com/color/48/security-checked.png" width="40"/>
+  Data Security
+</p>
 
 ---
 
 ## 🗄️ Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB"/>
-</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
+  MySQL&nbsp;&nbsp;&nbsp;&nbsp;
 
-MySQL&nbsp;&nbsp;&nbsp;&nbsp; MongoDB
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40"/>
+  MongoDB
+</p>
 
 ---
 
 ## 🛠️ Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="45" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=pycharm" width="45" title="PyCharm"/>
-</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
+  Git&nbsp;&nbsp;&nbsp;&nbsp;
 
-Git&nbsp;&nbsp;&nbsp;&nbsp; GitHub&nbsp;&nbsp;&nbsp;&nbsp; VS Code&nbsp;&nbsp;&nbsp;&nbsp; PyCharm
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/>
+  GitHub&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"/>
+  VS Code
+</p>
 
 ---
 
