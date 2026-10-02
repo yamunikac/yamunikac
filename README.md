@@ -4,7 +4,7 @@
 
 ### Aspiring Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=0077B5&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Web+Development;Java+%7C+SQL;Aspiring+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=0077B5&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Web+Development;Java+%7C+SQL;Building+My+Technical+Skills" alt="Typing SVG" />
 
 📍 Nellore, Andhra Pradesh | 📧 chinthapantiyamunika1229@gmail.com
 
@@ -13,6 +13,9 @@
 </a>
 <a href="https://www.linkedin.com/in/yamunika/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://drive.google.com/file/d/1yHZVWU8LWtG9TzLwqjE5b2gxq17IL3Oj/view?usp=sharing">
+  <img src="https://img.shields.io/badge/RESUME-8B0000?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 
 </div>
@@ -198,14 +201,6 @@ I'm a Computer Science and Engineering student currently building my technical s
 ![Profile Views](https://komarev.com/ghpvc/?username=yamunikac&color=blue)
 ![Followers](https://img.shields.io/github/followers/yamunikac?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/yamunikac?label=Stars&style=social)
-
----
-
-## 🔗 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/yamunika/
-- 📧 Email: chinthapantiyamunika1229@gmail.com
-- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1yHZVWU8LWtG9TzLwqjE5b2gxq17IL3Oj/view?usp=sharing)
 
 ---
 
