@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science and Engineering student currently building my technical skills through projects, internships, and hands-on learning. I have worked with **C, Java, SQL, and frontend technologies**, and I'm currently learning **Salesforce** and exploring new technologies.
+I'm a Computer Science and Engineering student currently building my technical skills through projects, internships, and hands-on learning.I'm currently learning **Salesforce** ,**Cloud Computing** and exploring new technologies.
 
 ---
 
